@@ -50,6 +50,35 @@ All colors are **WCAG AA compliant** for accessibility.
 ---
 
 ## 🗂️ Folder Structure
+Art-Verse/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── assets/
+│ └── images/ (placeholder – add your artwork here)
+└── README.md
+
+---
+
+## 🚀 Deployment
+
+The site is deployed via vercel - https://art-verse-alpha.vercel.app/
+
+--
+
+## 🙌 Credits
+
+- Project created by Cisey Job
+- Design inspired by wellness and creative community platforms
+- Unsplash images used for public, non-commercial visual placeholders
+
+---
+
+
+---
+
 
 
 
