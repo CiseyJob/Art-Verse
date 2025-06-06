@@ -1,34 +1,55 @@
+# 🎨 Artverse
 
-# Artverse
+**Artverse** is a responsive web platform designed to showcase artistic expression through a modern, visually engaging layout. Built as a final project in responsive design, it reflects creativity in branding, layout, and structure across desktop, tablet, and mobile views.
 
-## 🎨 Overview
-Artverse is a responsive digital art platform designed to showcase, explore, and connect with artistic work across various mediums. This project features a clean, Solus-inspired layout, a custom color palette, and full responsive behavior using HTML, CSS, and JavaScript.
+---
 
-## 🚀 Features
-- Fully responsive layout using Flexbox/Grid and media queries
-- Themed color palette: Indigo (#1A1A40), Gold (#F2C14E), Coral (#E94560)
-- Navigation, hero section, services, testimonials, resources, and contact form
-- Prepared for GitHub Pages deployment
+## 🌟 Project Overview
 
-## 🌐 Deployment Instructions (GitHub Pages)
-1. Upload all files to a GitHub repository.
-2. Go to **Settings > Pages**.
-3. Under **Source**, select the `main` branch and `/ (root)` folder.
-4. Your site will be live at `https://<username>.github.io/<repo-name>`.
+This project was developed to meet the following key objectives:
 
-## 🗂️ Project Structure
-```
-├── index.html
-├── css/
-│   └── style.css  
-├── js/
-│   └── script.js  
-└── assets/
-    └── images/  (empty – add your own images)
-```
+- ✅ Recreate a large screen layout (LG breakpoint) based on a given mockup
+- ✅ Apply a unique and creative **color scheme and brand identity**
+- ✅ Design fully responsive **SM (mobile)** and **MD (tablet)** breakpoints
+- ✅ Replace placeholder content with original themed content
+- ✅ Deploy the static website using **GitHub Pages**
 
-## 📷 Screenshots
-*Optional: Add screenshots here of desktop/tablet/mobile views.*
+---
 
-## 📬 Contact
-For issues or questions, please reach out to [youremail@example.com].
+## 📱 Responsive Design Implementation
+
+| Breakpoint | Layout |
+|------------|--------|
+| **LG** (≥1024px) | Grid-based multi-section layout |
+| **MD** (768px–1023px) | 2-column layout, simplified navigation |
+| **SM** (≤767px) | Single-column stack, hamburger menu |
+
+---
+
+## 🎨 Color System
+
+| Role      | Color      | Rationale |
+|-----------|------------|-----------|
+| Primary   | `#1A1A40`  | Deep indigo — creative focus and contrast |
+| Secondary | `#F2C14E`  | Warm gold — energizing for CTAs |
+| Accent    | `#E94560`  | Coral red — emotional highlights and visual emphasis |
+
+All colors are **WCAG AA compliant** for accessibility.
+
+---
+
+## 🧱 Features & Structure
+
+- Hero section with artistic messaging and CTA
+- Services overview (Virtual Exhibits, Coaching, Curated Collections)
+- Testimonials from artists
+- Resource links for creators
+- Contact form section with styled inputs
+- Responsive navigation bar with mobile hamburger toggle
+
+---
+
+## 🗂️ Folder Structure
+
+
+
